@@ -20,16 +20,16 @@
 $total_alarm_duration
 
 # Command Line History (newest to oldest):
+:q!
+|2,0,1684741801,,"q!"
 :q
-|2,0,1684659532,,"q"
+|2,0,1684740206,,"q"
+:w
+|2,0,1684740205,,"w"
 :Q
 |2,0,1684659488,,"Q"
 :wq
 |2,0,1684586583,,"wq"
-:w
-|2,0,1684586578,,"w"
-:q!
-|2,0,1684586254,,"q!"
 :'<,
 |2,0,1684334844,,"'<,"
 :1498
@@ -302,230 +302,244 @@ $total_alarm_duration
 |3,0,36,0,1,0,1684586397,"p"
 
 # File marks:
-'0  49  0  /etc/passwd
-|4,48,49,0,1684659614,"/etc/passwd"
-'1  1  0  /etc/shadow
-|4,49,1,0,1684659532,"/etc/shadow"
-'2  1  0  /etc/shaodq
-|4,50,1,0,1684659528,"/etc/shaodq"
-'3  46  0  /etc/passwd
-|4,51,46,0,1684659491,"/etc/passwd"
-'4  46  0  /etc/passwd
-|4,52,46,0,1684659491,"/etc/passwd"
-'5  1  0  /etc/shadow
-|4,53,1,0,1684659432,"/etc/shadow"
-'6  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h
-|4,54,1,0,1684657623,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h"
-'7  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c
-|4,55,1,0,1684657614,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c"
-'8  574  2  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c
-|4,56,574,2,1684587637,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c"
-'9  574  2  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c
-|4,57,574,2,1684587637,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c"
+'0  4263  0  ~/Desktop/git & github/my_first_contribution/Contributors.md
+|4,48,4263,0,1684740206,"~/Desktop/git & github/my_first_contribution/Contributors.md"
+'1  206  1172  ~/Desktop/git & github/my_first_contribution/README.md
+|4,49,206,1172,1684740178,"~/Desktop/git & github/my_first_contribution/README.md"
+'2  1  0  ~/.vimrc
+|4,50,1,0,1684739515,"~/.vimrc"
+'3  49  0  /etc/passwd
+|4,51,49,0,1684659614,"/etc/passwd"
+'4  1  0  /etc/shadow
+|4,52,1,0,1684659532,"/etc/shadow"
+'5  1  0  /etc/shaodq
+|4,53,1,0,1684659528,"/etc/shaodq"
+'6  46  0  /etc/passwd
+|4,54,46,0,1684659491,"/etc/passwd"
+'7  46  0  /etc/passwd
+|4,55,46,0,1684659491,"/etc/passwd"
+'8  1  0  /etc/shadow
+|4,56,1,0,1684659432,"/etc/shadow"
+'9  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h
+|4,57,1,0,1684657623,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h"
 
 # Jumplist (newest first):
+-'  4263  0  ~/Desktop/git & github/my_first_contribution/Contributors.md
+|4,39,4263,0,1684740206,"~/Desktop/git & github/my_first_contribution/Contributors.md"
+-'  4263  0  ~/Desktop/git & github/my_first_contribution/Contributors.md
+|4,39,4263,0,1684740206,"~/Desktop/git & github/my_first_contribution/Contributors.md"
+-'  4263  0  ~/Desktop/git & github/my_first_contribution/Contributors.md
+|4,39,4263,0,1684740206,"~/Desktop/git & github/my_first_contribution/Contributors.md"
+-'  4263  0  ~/Desktop/git & github/my_first_contribution/Contributors.md
+|4,39,4263,0,1684740206,"~/Desktop/git & github/my_first_contribution/Contributors.md"
+-'  1  3  ~/Desktop/git & github/my_first_contribution/Contributors.md
+|4,39,1,3,1684740186,"~/Desktop/git & github/my_first_contribution/Contributors.md"
+-'  1  3  ~/Desktop/git & github/my_first_contribution/Contributors.md
+|4,39,1,3,1684740186,"~/Desktop/git & github/my_first_contribution/Contributors.md"
+-'  1  3  ~/Desktop/git & github/my_first_contribution/Contributors.md
+|4,39,1,3,1684740186,"~/Desktop/git & github/my_first_contribution/Contributors.md"
+-'  1  3  ~/Desktop/git & github/my_first_contribution/Contributors.md
+|4,39,1,3,1684740186,"~/Desktop/git & github/my_first_contribution/Contributors.md"
+-'  206  1172  ~/Desktop/git & github/my_first_contribution/README.md
+|4,39,206,1172,1684740178,"~/Desktop/git & github/my_first_contribution/README.md"
+-'  206  1172  ~/Desktop/git & github/my_first_contribution/README.md
+|4,39,206,1172,1684740178,"~/Desktop/git & github/my_first_contribution/README.md"
+-'  206  1172  ~/Desktop/git & github/my_first_contribution/README.md
+|4,39,206,1172,1684740178,"~/Desktop/git & github/my_first_contribution/README.md"
+-'  206  1172  ~/Desktop/git & github/my_first_contribution/README.md
+|4,39,206,1172,1684740178,"~/Desktop/git & github/my_first_contribution/README.md"
+-'  206  1172  ~/Desktop/git & github/my_first_contribution/README.md
+|4,39,206,1172,1684740178,"~/Desktop/git & github/my_first_contribution/README.md"
+-'  206  1172  ~/Desktop/git & github/my_first_contribution/README.md
+|4,39,206,1172,1684740178,"~/Desktop/git & github/my_first_contribution/README.md"
+-'  206  1172  ~/Desktop/git & github/my_first_contribution/README.md
+|4,39,206,1172,1684740178,"~/Desktop/git & github/my_first_contribution/README.md"
+-'  206  1172  ~/Desktop/git & github/my_first_contribution/README.md
+|4,39,206,1172,1684740178,"~/Desktop/git & github/my_first_contribution/README.md"
+-'  1  0  ~/Desktop/git & github/my_first_contribution/README.md
+|4,39,1,0,1684740162,"~/Desktop/git & github/my_first_contribution/README.md"
+-'  1  0  ~/Desktop/git & github/my_first_contribution/README.md
+|4,39,1,0,1684740162,"~/Desktop/git & github/my_first_contribution/README.md"
+-'  1  0  ~/Desktop/git & github/my_first_contribution/README.md
+|4,39,1,0,1684740162,"~/Desktop/git & github/my_first_contribution/README.md"
+-'  1  0  ~/Desktop/git & github/my_first_contribution/README.md
+|4,39,1,0,1684740162,"~/Desktop/git & github/my_first_contribution/README.md"
+-'  1  0  ~/Desktop/git & github/my_first_contribution/README.md
+|4,39,1,0,1684740162,"~/Desktop/git & github/my_first_contribution/README.md"
+-'  1  0  ~/Desktop/git & github/my_first_contribution/README.md
+|4,39,1,0,1684740162,"~/Desktop/git & github/my_first_contribution/README.md"
+-'  1  0  ~/Desktop/git & github/my_first_contribution/README.md
+|4,39,1,0,1684740162,"~/Desktop/git & github/my_first_contribution/README.md"
+-'  1  0  ~/Desktop/git & github/my_first_contribution/README.md
+|4,39,1,0,1684740162,"~/Desktop/git & github/my_first_contribution/README.md"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1684739515,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1684739515,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1684739515,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1684739515,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1684739515,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1684739515,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1684739515,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1684739515,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1684739515,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1684739515,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1684739515,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1684739515,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1684739515,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1684739515,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1684739515,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1684739515,"~/.vimrc"
+-'  49  0  /etc/passwd
+|4,39,49,0,1684659614,"/etc/passwd"
+-'  49  0  /etc/passwd
+|4,39,49,0,1684659614,"/etc/passwd"
+-'  49  0  /etc/passwd
+|4,39,49,0,1684659614,"/etc/passwd"
+-'  49  0  /etc/passwd
+|4,39,49,0,1684659614,"/etc/passwd"
+-'  49  0  /etc/passwd
+|4,39,49,0,1684659614,"/etc/passwd"
+-'  49  0  /etc/passwd
+|4,39,49,0,1684659614,"/etc/passwd"
+-'  49  0  /etc/passwd
+|4,39,49,0,1684659614,"/etc/passwd"
+-'  49  0  /etc/passwd
+|4,39,49,0,1684659614,"/etc/passwd"
+-'  49  0  /etc/passwd
+|4,39,49,0,1684659614,"/etc/passwd"
+-'  49  0  /etc/passwd
+|4,39,49,0,1684659614,"/etc/passwd"
+-'  49  0  /etc/passwd
+|4,39,49,0,1684659614,"/etc/passwd"
+-'  49  0  /etc/passwd
+|4,39,49,0,1684659614,"/etc/passwd"
+-'  49  0  /etc/passwd
+|4,39,49,0,1684659614,"/etc/passwd"
+-'  49  0  /etc/passwd
+|4,39,49,0,1684659614,"/etc/passwd"
+-'  49  0  /etc/passwd
+|4,39,49,0,1684659614,"/etc/passwd"
+-'  49  0  /etc/passwd
+|4,39,49,0,1684659614,"/etc/passwd"
+-'  49  0  /etc/passwd
+|4,39,49,0,1684659614,"/etc/passwd"
+-'  49  0  /etc/passwd
+|4,39,49,0,1684659614,"/etc/passwd"
+-'  49  0  /etc/passwd
+|4,39,49,0,1684659614,"/etc/passwd"
+-'  49  0  /etc/passwd
+|4,39,49,0,1684659614,"/etc/passwd"
+-'  49  0  /etc/passwd
+|4,39,49,0,1684659614,"/etc/passwd"
+-'  49  0  /etc/passwd
+|4,39,49,0,1684659614,"/etc/passwd"
+-'  49  0  /etc/passwd
+|4,39,49,0,1684659614,"/etc/passwd"
+-'  49  0  /etc/passwd
+|4,39,49,0,1684659614,"/etc/passwd"
+-'  49  0  /etc/passwd
+|4,39,49,0,1684659614,"/etc/passwd"
+-'  49  0  /etc/passwd
+|4,39,49,0,1684659614,"/etc/passwd"
+-'  49  0  /etc/passwd
+|4,39,49,0,1684659614,"/etc/passwd"
+-'  49  0  /etc/passwd
+|4,39,49,0,1684659614,"/etc/passwd"
+-'  49  0  /etc/passwd
+|4,39,49,0,1684659614,"/etc/passwd"
+-'  49  0  /etc/passwd
+|4,39,49,0,1684659614,"/etc/passwd"
+-'  49  0  /etc/passwd
+|4,39,49,0,1684659614,"/etc/passwd"
 -'  49  0  /etc/passwd
 |4,39,49,0,1684659614,"/etc/passwd"
 -'  1  5  /etc/passwd
 |4,39,1,5,1684659610,"/etc/passwd"
--'  1  0  /etc/shadow
-|4,39,1,0,1684659532,"/etc/shadow"
--'  1  0  /etc/shadow
-|4,39,1,0,1684659532,"/etc/shadow"
--'  1  0  /etc/shaodq
-|4,39,1,0,1684659528,"/etc/shaodq"
--'  1  0  /etc/shaodq
-|4,39,1,0,1684659528,"/etc/shaodq"
--'  1  0  /etc/shaodq
-|4,39,1,0,1684659528,"/etc/shaodq"
--'  1  0  /etc/shaodq
-|4,39,1,0,1684659528,"/etc/shaodq"
--'  46  0  /etc/passwd
-|4,39,46,0,1684659491,"/etc/passwd"
--'  46  0  /etc/passwd
-|4,39,46,0,1684659491,"/etc/passwd"
--'  46  0  /etc/passwd
-|4,39,46,0,1684659491,"/etc/passwd"
--'  46  0  /etc/passwd
-|4,39,46,0,1684659491,"/etc/passwd"
--'  46  0  /etc/passwd
-|4,39,46,0,1684659491,"/etc/passwd"
--'  1  0  /etc/passwd
-|4,39,1,0,1684659481,"/etc/passwd"
--'  1  0  /etc/passwd
-|4,39,1,0,1684659481,"/etc/passwd"
--'  1  0  /etc/passwd
-|4,39,1,0,1684659481,"/etc/passwd"
--'  1  0  /etc/passwd
-|4,39,1,0,1684659481,"/etc/passwd"
--'  1  0  /etc/shadow
-|4,39,1,0,1684659432,"/etc/shadow"
--'  1  0  /etc/shadow
-|4,39,1,0,1684659432,"/etc/shadow"
--'  1  0  /etc/shadow
-|4,39,1,0,1684659432,"/etc/shadow"
--'  1  0  /etc/shadow
-|4,39,1,0,1684659432,"/etc/shadow"
--'  1  0  /etc/shadow
-|4,39,1,0,1684659432,"/etc/shadow"
--'  1  0  /etc/shadow
-|4,39,1,0,1684659432,"/etc/shadow"
--'  1  0  /etc/shadow
-|4,39,1,0,1684659432,"/etc/shadow"
--'  1  0  /etc/shadow
-|4,39,1,0,1684659432,"/etc/shadow"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h
-|4,39,1,0,1684657623,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h
-|4,39,1,0,1684657623,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h
-|4,39,1,0,1684657623,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h
-|4,39,1,0,1684657623,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h
-|4,39,1,0,1684657623,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h
-|4,39,1,0,1684657623,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h
-|4,39,1,0,1684657623,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h
-|4,39,1,0,1684657623,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h
-|4,39,1,0,1684657623,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h
-|4,39,1,0,1684657623,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h
-|4,39,1,0,1684657623,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h
-|4,39,1,0,1684657623,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h
-|4,39,1,0,1684657623,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h
-|4,39,1,0,1684657623,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h
-|4,39,1,0,1684657623,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h
-|4,39,1,0,1684657623,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h
-|4,39,1,0,1684657623,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h
-|4,39,1,0,1684657623,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h
-|4,39,1,0,1684657623,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h
-|4,39,1,0,1684657623,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h
-|4,39,1,0,1684657623,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h
-|4,39,1,0,1684657623,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h
-|4,39,1,0,1684657623,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h
-|4,39,1,0,1684657623,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h
-|4,39,1,0,1684657623,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h
-|4,39,1,0,1684657623,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h
-|4,39,1,0,1684657623,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h
-|4,39,1,0,1684657623,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h
-|4,39,1,0,1684657623,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h
-|4,39,1,0,1684657623,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h
-|4,39,1,0,1684657623,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h
-|4,39,1,0,1684657623,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.h"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c
-|4,39,1,0,1684657614,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c
-|4,39,1,0,1684657614,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c
-|4,39,1,0,1684657614,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c
-|4,39,1,0,1684657614,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c
-|4,39,1,0,1684657614,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c
-|4,39,1,0,1684657614,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c
-|4,39,1,0,1684657614,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c
-|4,39,1,0,1684657614,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c
-|4,39,1,0,1684657614,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c
-|4,39,1,0,1684657614,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c
-|4,39,1,0,1684657614,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c
-|4,39,1,0,1684657614,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c
-|4,39,1,0,1684657614,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c
-|4,39,1,0,1684657614,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c
-|4,39,1,0,1684657614,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c
-|4,39,1,0,1684657614,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c
-|4,39,1,0,1684657614,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c
-|4,39,1,0,1684657614,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c
-|4,39,1,0,1684657614,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c
-|4,39,1,0,1684657614,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c
-|4,39,1,0,1684657614,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c
-|4,39,1,0,1684657614,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c
-|4,39,1,0,1684657614,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c
-|4,39,1,0,1684657614,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c
-|4,39,1,0,1684657614,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c
-|4,39,1,0,1684657614,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c
-|4,39,1,0,1684657614,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c
-|4,39,1,0,1684657614,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c
-|4,39,1,0,1684657614,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c
-|4,39,1,0,1684657614,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c
-|4,39,1,0,1684657614,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c
-|4,39,1,0,1684657614,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c
-|4,39,1,0,1684657614,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c
-|4,39,1,0,1684657614,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c
-|4,39,1,0,1684657614,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c
-|4,39,1,0,1684657614,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c
-|4,39,1,0,1684657614,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c
-|4,39,1,0,1684657614,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c
-|4,39,1,0,1684657614,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c
-|4,39,1,0,1684657614,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c
-|4,39,1,0,1684657614,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c
-|4,39,1,0,1684657614,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c"
--'  1  0  ~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c
-|4,39,1,0,1684657614,"~/Desktop/git & github/meeting/timer_tnc/asf/drivers/rtc/rtc.c"
+-'  1  5  /etc/passwd
+|4,39,1,5,1684659610,"/etc/passwd"
+-'  1  5  /etc/passwd
+|4,39,1,5,1684659610,"/etc/passwd"
+-'  1  5  /etc/passwd
+|4,39,1,5,1684659610,"/etc/passwd"
+-'  1  5  /etc/passwd
+|4,39,1,5,1684659610,"/etc/passwd"
+-'  1  5  /etc/passwd
+|4,39,1,5,1684659610,"/etc/passwd"
+-'  1  5  /etc/passwd
+|4,39,1,5,1684659610,"/etc/passwd"
+-'  1  5  /etc/passwd
+|4,39,1,5,1684659610,"/etc/passwd"
+-'  1  5  /etc/passwd
+|4,39,1,5,1684659610,"/etc/passwd"
+-'  1  5  /etc/passwd
+|4,39,1,5,1684659610,"/etc/passwd"
+-'  1  5  /etc/passwd
+|4,39,1,5,1684659610,"/etc/passwd"
+-'  1  5  /etc/passwd
+|4,39,1,5,1684659610,"/etc/passwd"
+-'  1  5  /etc/passwd
+|4,39,1,5,1684659610,"/etc/passwd"
+-'  1  5  /etc/passwd
+|4,39,1,5,1684659610,"/etc/passwd"
+-'  1  5  /etc/passwd
+|4,39,1,5,1684659610,"/etc/passwd"
+-'  1  5  /etc/passwd
+|4,39,1,5,1684659610,"/etc/passwd"
+-'  1  5  /etc/passwd
+|4,39,1,5,1684659610,"/etc/passwd"
+-'  1  5  /etc/passwd
+|4,39,1,5,1684659610,"/etc/passwd"
+-'  1  5  /etc/passwd
+|4,39,1,5,1684659610,"/etc/passwd"
+-'  1  5  /etc/passwd
+|4,39,1,5,1684659610,"/etc/passwd"
+-'  1  5  /etc/passwd
+|4,39,1,5,1684659610,"/etc/passwd"
+-'  1  5  /etc/passwd
+|4,39,1,5,1684659610,"/etc/passwd"
+-'  1  5  /etc/passwd
+|4,39,1,5,1684659610,"/etc/passwd"
+-'  1  5  /etc/passwd
+|4,39,1,5,1684659610,"/etc/passwd"
+-'  1  5  /etc/passwd
+|4,39,1,5,1684659610,"/etc/passwd"
+-'  1  5  /etc/passwd
+|4,39,1,5,1684659610,"/etc/passwd"
 
 # History of marks within files (newest to oldest):
+
+> ~/Desktop/git & github/my_first_contribution/Contributors.md
+	*	1684740206	0
+	"	4263	0
+	^	4263	0
+	.	4262	23
+	+	4262	23
+
+> ~/Desktop/git & github/my_first_contribution/README.md
+	*	1684740175	0
+	"	206	1172
+	^	206	1173
+	.	207	0
+	+	207	0
+
+> ~/.vimrc
+	*	1684739515	0
+	"	1	0
 
 > /etc/passwd
 	*	1684659610	0
@@ -1540,17 +1554,3 @@ $total_alarm_duration
 > ~/Desktop/git & github/tnc/asf/drivers/tc/tc.c
 	*	1682060159	0
 	"	80	0
-
-> ~/Desktop/git & github/timer_tnc/src/NERD_tree_2
-	*	1682060101	0
-	"	11	0
-	.	1	0
-	+	1	0
-
-> ~/Desktop/git & github/timer_tnc/src/timerc
-	*	1682059881	0
-	"	1	0
-
-> ~/Desktop/git & github/tnc/src/com2-tnc-software-timers/hard_timers.
-	*	1682059390	0
-	"	1	0
