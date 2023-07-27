@@ -1,9 +1,9 @@
-# dotfiles
-contains dotfiles of the ubuntu system
+# Dotfiles
+Contains dotfiles of the ubuntu system
 to add any one of these files just copy the contents to the appropriate location
 for example for VIM add the .vimrc to the home directory
 
-when you open vim in sudo these files won't be working
+When you open vim in sudo these files won't be working
 - to make it working use sudoedit command instead of sudo vim ( you can also alias this )
 and make sure that you set EDITOR environment variable to vim
 
