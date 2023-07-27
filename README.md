@@ -9,3 +9,5 @@ and make sure that you set EDITOR environment variable to vim
 
 - or you can also copy the vimrc to root
 
+- you can also use the -E flag to preserve environment "sudo vim -E filename" 
+will open the file in recommended environment
