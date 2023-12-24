@@ -11,3 +11,7 @@ and make sure that you set EDITOR environment variable to vim
 
 - you can also use the -E flag to preserve environment "sudo vim -E filename" 
 will open the file in recommended environment
+
+
+# Note
+My dotfiles are now based on i3 hence it is present in i3wm fork of keyitdev dotfiles
